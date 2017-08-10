@@ -1,0 +1,5 @@
+d:\users\satemel\documents\visual studio 2013\Projects\WindsorContainerExample\ServiceLocater\bin\Debug\ServiceLocater.dll
+d:\users\satemel\documents\visual studio 2013\Projects\WindsorContainerExample\ServiceLocater\bin\Debug\ServiceLocater.pdb
+d:\users\satemel\documents\visual studio 2013\Projects\WindsorContainerExample\ServiceLocater\obj\Debug\ServiceLocater.dll
+d:\users\satemel\documents\visual studio 2013\Projects\WindsorContainerExample\ServiceLocater\obj\Debug\ServiceLocater.pdb
+d:\users\satemel\documents\visual studio 2013\Projects\WindsorContainerExample\ServiceLocater\obj\Debug\ServiceLocater.csprojResolveAssemblyReference.cache
