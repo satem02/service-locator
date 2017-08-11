@@ -51,7 +51,7 @@ namespace ServiceLocater.Services
 
         public CustomerTransferObject Get(Func<CustomerTransferObject, bool> condition)
         {
-            return customerList.Where(condition).SingleOrDefault();
+            return customerList.Where(condition).FirstOrDefault();
         }
 
         public List<CustomerTransferObject> GetList(Func<CustomerTransferObject, bool> condition)
